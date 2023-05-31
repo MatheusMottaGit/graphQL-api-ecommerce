@@ -16,6 +16,9 @@ Bom desafio!
 
 # 🧠 Contexto
 
+- Este repositório contém a API a ser utilizada no projeto
+- As próximas etapas serão postadas nos próximos repositórios
+
 ![Protótipo](https://storage.googleapis.com/xesque-dev/challenge-images/prototipo.png?42)
 
 O desafio será implementar um e-commerce para venda de canecas e camisetas que deverá ter as seguintes funcionalidades:
@@ -35,7 +38,7 @@ Chegou a hora de colocar a mão na massa!
 - Utilize o local storage para gerenciar o carrinho
 - Por favor, inclua no README as instruções de instalação do projeto
 - Sinta-se livre para incluir quaisquer observações
-- Consuma nossa **API GraphQL** rodando o comando `yarn start` na pasta `api`
+- Consuma nossa **API GraphQL** instalando as dependências com `npm i`, e rodando o comando `yarn start` ou `npm start` na pasta `api`
 
 ## ✔️ Critérios de Avaliação
 
